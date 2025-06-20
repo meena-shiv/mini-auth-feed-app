@@ -50,10 +50,6 @@ This app is ready to deploy to GitHub Pages:
    ```
    The app will be published at: [https://meena-shiv.github.io/mini-auth-feed-app](https://meena-shiv.github.io/mini-auth-feed-app)
 
-## 🎨 Figma Design
-
-> **Figma link:** _[Insert your Figma link here]_  
-> The UI/UX closely follows the provided Figma design for layout, spacing, and iconography.
 
 ## 🙏 Credits
 
