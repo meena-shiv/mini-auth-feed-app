@@ -84,7 +84,13 @@ const PostEditor: React.FC<PostEditorProps> = ({ onPublish, onRequireAuth }) => 
       <div className="flex flex-row gap-2 p-2 sm:p-3 relative">
         <div className="relative flex">
           <button
-            onClick={() => setShowEmojiPicker(v => !v)}
+            onClick={() => {
+              if (!isAuthenticated && onRequireAuth) {
+                onRequireAuth();
+              }else{
+                setShowEmojiPicker(v => !v)
+              }
+            }}
             className={`hover:text-gray-600 text-gray-500 rounded flex-shrink-0 flex transition-transform duration-150 hover:scale-110 ${selectedEmoji ? '' : 'p-1'} `}
             aria-label="Smile"
             type="button"
