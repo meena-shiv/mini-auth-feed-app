@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Theresa Webb",
+    "avatar": "https://randomuser.me/api/portraits/women/44.jpg",
+    "time": "5 mins ago",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "emoji": "😊"
+  },
+  {
+    "id": 2,
+    "name": "John Doe",
+    "avatar": "https://randomuser.me/api/portraits/men/32.jpg",
+    "time": "5 mins ago",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "emoji": "👍"
+  },
+  {
+    "id": 3,
+    "name": "Jane Doe",
+    "avatar": "https://randomuser.me/api/portraits/women/68.jpg",
+    "time": "5 mins ago",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "emoji": "🐼"
+  }
+] 
