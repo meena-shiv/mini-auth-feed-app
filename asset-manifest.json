@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mini-auth-feed-app/static/css/main.a393b9cc.css",
+    "main.js": "/mini-auth-feed-app/static/js/main.33f85c80.js",
+    "index.html": "/mini-auth-feed-app/index.html",
+    "main.a393b9cc.css.map": "/mini-auth-feed-app/static/css/main.a393b9cc.css.map",
+    "main.33f85c80.js.map": "/mini-auth-feed-app/static/js/main.33f85c80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a393b9cc.css",
+    "static/js/main.33f85c80.js"
+  ]
+}
