@@ -53,7 +53,6 @@ This app is ready to deploy to GitHub Pages:
 
 ## 🙏 Credits
 
-- UI/UX: [Figma](https://figma.com/) (design by [your name or designer])
 - Code: [@Shiv Meena](https://github.com/meena-shiv)
 - Icons: [Heroicons](https://heroicons.com/), [react-icons](https://react-icons.github.io/react-icons/)
 
